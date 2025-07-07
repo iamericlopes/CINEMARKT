@@ -5,4 +5,6 @@ O site possui tela de login e cadastro funcionais, onde a senha criada pelo usu�
 
 A tela de login possui também, um validador das informações de entrada, caso as informações estejam incorretas, o login não será efetuado, e caso as informações sejam verídicas, o usuário será redirecionado para dentro do site, estilizado previamente com um carrossel de filmes codificado por Javascript, onde o destaque é para o html e o css.
 
-Este é apenas um projeto de entrada, com o foco do usuário ter uma sessão e proteção de dados segura.
+Este é apenas um projeto de entrada, com o foco do usuário ter uma sessão e proteção de dados segura. Sou um desenvolvedor em aprendizado e meu objetivo é me especializar com o backend.
+
+
